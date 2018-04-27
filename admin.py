@@ -1,6 +1,12 @@
 # -*- coding: utf-8 -*-
 from __future__ import unicode_literals
 
+from math import addition
+
+def(abc):
+	a+b=c;
+        print(c)
+
 from django.contrib import admin
 from first_app.models import AccessRecord, Topic, Webpage
 # Register your models here.
