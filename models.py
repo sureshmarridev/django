@@ -22,5 +22,8 @@ class AccessRecord(models.Model):
     name=models.ForeignKey(Webpage)
     date=models.DateField()
 
+Class Deal(creditapp)
+    print(abc)
+
     def __str__(self):
         return str(self.date)
